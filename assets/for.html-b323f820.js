@@ -1,0 +1,1 @@
+const o=JSON.parse('{"key":"v-6bf5a42f","path":"/modules/js/js-loops/for.html","title":"for","lang":"en-US","frontmatter":{"prev":"/modules/js/js-loops/","next":"for...of.html"},"headers":[],"git":{},"filePathRelative":"modules/js/js-loops/for.md"}');export{o as data};

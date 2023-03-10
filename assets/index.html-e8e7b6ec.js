@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-a7cf11b6","path":"/modules/js/js-conditional-statements/","title":"JavaScript Conditional Statements","lang":"en-US","frontmatter":{"next":"if...else.html"},"headers":[],"git":{},"filePathRelative":"modules/js/js-conditional-statements/README.md"}');export{t as data};

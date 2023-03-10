@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-e008f9f2","path":"/modules/js/js-loops/while.html","title":"while","lang":"en-US","frontmatter":{"prev":"for...in.html"},"headers":[{"level":2,"title":"do...while","slug":"do-while","link":"#do-while","children":[]}],"git":{},"filePathRelative":"modules/js/js-loops/while.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-23468a2a","path":"/modules/js/includes/objects-data-types.html","title":"","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"Objects","slug":"objects","link":"#objects","children":[]}],"git":{},"filePathRelative":"modules/js/includes/objects-data-types.md"}');export{e as data};

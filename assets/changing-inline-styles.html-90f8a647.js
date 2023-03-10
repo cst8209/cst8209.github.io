@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-054a6592","path":"/modules/js/js-dom/changing-inline-styles.html","title":"Changing Inline Styles","lang":"en-US","frontmatter":{"prev":"manipulating-classes","title":"Changing Inline Styles"},"headers":[],"git":{},"filePathRelative":"modules/js/js-dom/changing-inline-styles.md"}');export{e as data};

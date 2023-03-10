@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1ac0c93a","path":"/modules/js/js-basics/booleans.html","title":"JavaScript Booleans","lang":"en-US","frontmatter":{"prev":"expressions","next":"numbers","title":"JavaScript Booleans"},"headers":[],"git":{},"filePathRelative":"modules/js/js-basics/booleans.md"}');export{e as data};

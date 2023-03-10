@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-ccb6e91e","path":"/modules/git/git-basics/","title":"Git Basics","lang":"en-US","frontmatter":{"next":"version-control"},"headers":[],"git":{},"filePathRelative":"modules/git/git-basics/README.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-5739a7f7","path":"/modules/git/github-basics/forking.html","title":"Forking a Repository on GitHub","lang":"en-US","frontmatter":{"prev":"working","next":"pull-requests"},"headers":[],"git":{},"filePathRelative":"modules/git/github-basics/forking.md"}');export{t as data};

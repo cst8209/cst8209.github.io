@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-dcd686ae","path":"/modules/git/git-basics/workflow.html","title":"Git Workflow","lang":"en-US","frontmatter":{"prev":"log","next":"remote"},"headers":[],"git":{},"filePathRelative":"modules/git/git-basics/workflow.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-bb4514c4","path":"/modules/git/","title":"Git & GitHub","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"modules/git/README.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-15ff35e1","path":"/modules/js/includes/template-literals.html","title":"","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"Template Literals","slug":"template-literals","link":"#template-literals","children":[]}],"git":{},"filePathRelative":"modules/js/includes/template-literals.md"}');export{e as data};

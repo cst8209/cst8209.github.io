@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-0720281e","path":"/modules/js/includes/string-concatenation.html","title":"","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"String Concatenation","slug":"string-concatenation","link":"#string-concatenation","children":[]}],"git":{},"filePathRelative":"modules/js/includes/string-concatenation.md"}');export{t as data};

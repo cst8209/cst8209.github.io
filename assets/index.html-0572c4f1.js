@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-279814ac","path":"/modules/js/js-dom/","title":"The Document Object Model","lang":"en-US","frontmatter":{"next":"finding-html-elements"},"headers":[],"git":{},"filePathRelative":"modules/js/js-dom/README.md"}');export{e as data};

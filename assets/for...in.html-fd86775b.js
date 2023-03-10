@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-239b3b10","path":"/modules/js/js-loops/for...in.html","title":"for...in","lang":"en-US","frontmatter":{"prev":"for...of.html","next":"while.html"},"headers":[],"git":{},"filePathRelative":"modules/js/js-loops/for...in.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-b1b392de","path":"/modules/js/js-dom-events/multiple-elements.html","title":"Listeners on Multiple Elements","lang":"en-US","frontmatter":{"prev":"event-types","next":"event-delegation"},"headers":[],"git":{},"filePathRelative":"modules/js/js-dom-events/multiple-elements.md"}');export{e as data};

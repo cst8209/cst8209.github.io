@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2ae71070","path":"/modules/js/js-fetch/request-object.html","title":"Fetch Request Object","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"modules/js/js-fetch/request-object.md"}');export{e as data};

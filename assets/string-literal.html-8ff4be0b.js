@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-06ecb9e7","path":"/modules/js/includes/string-literal.html","title":"","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"String Literal","slug":"string-literal","link":"#string-literal","children":[]}],"git":{},"filePathRelative":"modules/js/includes/string-literal.md"}');export{e as data};
